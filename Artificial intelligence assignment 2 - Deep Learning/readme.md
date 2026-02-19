@@ -4,7 +4,6 @@
 This assignment contains computational implementations of foundational deep learning concepts, bridging theoretical mathematics and practical code. It explores model architecture, error quantification, and iterative optimization techniques.
 
 ## Modules
-
 ### Chapter 2: Supervised Learning
 Parametric models and foundational 1D linear regression.
 
